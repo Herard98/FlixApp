@@ -1,0 +1,15 @@
+com/lopes/flixster/MainActivity.java
+ com.lopes.flixster.MainActivity
+ com.lopes.flixster.MainActivity$1
+com/lopes/flixster/BuildConfig.java
+ com.lopes.flixster.BuildConfig
+com/lopes/flixster/models/Movie.java
+ com.lopes.flixster.models.Movie
+com/lopes/flixster/DetailActivity.java
+ com.lopes.flixster.DetailActivity
+ com.lopes.flixster.DetailActivity$1
+ com.lopes.flixster.DetailActivity$2
+com/lopes/flixster/adapters/MovieAdapter.java
+ com.lopes.flixster.adapters.MovieAdapter
+ com.lopes.flixster.adapters.MovieAdapter$ViewHolder
+ com.lopes.flixster.adapters.MovieAdapter$ViewHolder$1
